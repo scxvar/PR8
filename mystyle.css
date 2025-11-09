@@ -1,0 +1,21 @@
+body {
+    background-color: #aaaaaa; 
+    margin: 0;
+}
+.contentl {
+background-color: #CCCCCC;
+padding: 0.1px;
+}
+.content2 {
+background-color: #b1a555;
+padding: 0.1px;
+}
+h1 {
+    color: white;
+}
+p {
+background: #8A6655;
+}
+span {
+background: #8ABB55;
+}
